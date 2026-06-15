@@ -4,8 +4,6 @@
 # 2. Data cleaning and normalization
 # 3. Exoplanet transit detection using the lightkurve library
 # Future phases will include implementing a physics-informed neural network (PINN) for improved transit detection and parameter estimation.
-# Author: [Your Name]
-# Date: [Current Date]
 # Note: This is a high-level outline and will require further development to implement the full functionality.
 # Import necessary libraries
 import numpy as np
