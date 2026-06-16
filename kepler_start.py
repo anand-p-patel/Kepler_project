@@ -60,6 +60,8 @@ import beautifulsoup4
 import lxml
 import scrapy
 
+#todo change eventually change kepler-8 to either a user input or a list of targets to loop through for batch processing of light curves, possibly scanning all targets,and eventually integrate into a larger exoplanet discovery pipeline that includes TESS and future missions like PLATO and ARIEL
+
 #todo integrate into sql database for structured storage and querying of light curve data and transit parameters
 
 #todo implement caching mechanism for downloaded light curve data to avoid redundant API calls and speed up analysis
