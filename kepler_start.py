@@ -60,6 +60,9 @@ import beautifulsoup4
 import lxml
 import scrapy
 
+
+#make it so the target mission can be chosen by the user
+
 #todo change eventually change kepler-8 to either a user input or a list of targets to loop through for batch processing of light curves, possibly scanning all targets,and eventually integrate into a larger exoplanet discovery pipeline that includes TESS and future missions like PLATO and ARIEL
 
 #todo integrate into sql database for structured storage and querying of light curve data and transit parameters
